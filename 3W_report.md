@@ -12,3 +12,8 @@ if else 문 활용하여 짝수 홀수 구분 코드 작성
 <img width="1384" height="883" alt="스크린샷 2026-03-18 오후 3 37 37" src="https://github.com/user-attachments/assets/afc54581-4510-4f7a-b480-929b6563fd9f" />
 <img width="1384" height="883" alt="스크린샷 2026-03-18 오후 3 54 23" src="https://github.com/user-attachments/assets/94b5c6ba-5671-4498-958b-14b6bdc871da" />
 간단한 텍스트 게임
+<img width="1384" height="883" alt="스크린샷 2026-03-18 오후 4 35 23" src="https://github.com/user-attachments/assets/4bb86836-7c47-47ab-a044-1b34ae0c53b3" />
+<img width="1384" height="883" alt="스크린샷 2026-03-18 오후 4 35 31" src="https://github.com/user-attachments/assets/e3ac6d04-7dd9-4110-9222-5e5f09b28a8b" />
+<img width="1384" height="883" alt="스크린샷 2026-03-18 오후 4 35 35" src="https://github.com/user-attachments/assets/4d1625f9-56de-4c74-86e8-2c3d2a2919bf" />
+<img width="1384" height="883" alt="스크린샷 2026-03-18 오후 4 35 43" src="https://github.com/user-attachments/assets/c361f61f-1d27-48dd-a17b-39e7990ce300" />
+<img width="1384" height="883" alt="스크린샷 2026-03-18 오후 4 37 16" src="https://github.com/user-attachments/assets/b7b42912-0884-44a3-9e77-b8c482a3e056" />
