@@ -6,3 +6,9 @@ if else 문 활용하여 짝수 홀수 구분 코드 작성
 <img width="1266" height="668" alt="스크린샷 2026-03-18 오후 2 46 03" src="https://github.com/user-attachments/assets/b255b72e-d2a9-45c7-bf84-a330338e0a43" />
 바이브코딩으로 변수 입력 받게 수정
 <img width="1266" height="668" alt="스크린샷 2026-03-18 오후 2 58 35" src="https://github.com/user-attachments/assets/b72b021e-e032-49bc-a606-0ca3fcd1ff0c" />
+<img width="1266" height="668" alt="스크린샷 2026-03-18 오후 3 19 09" src="https://github.com/user-attachments/assets/2782616b-19b4-4c22-a3e4-27dcd5a2ac67" />
+<img width="1266" height="668" alt="스크린샷 2026-03-18 오후 3 24 00" src="https://github.com/user-attachments/assets/4c2c389c-3a54-46a9-926a-9273288f4af7" />
+<img width="1266" height="668" alt="스크린샷 2026-03-18 오후 3 28 34" src="https://github.com/user-attachments/assets/22aaed6c-2d47-46bb-96d4-e73cac0e1fdd" />
+<img width="1384" height="883" alt="스크린샷 2026-03-18 오후 3 37 37" src="https://github.com/user-attachments/assets/afc54581-4510-4f7a-b480-929b6563fd9f" />
+<img width="1384" height="883" alt="스크린샷 2026-03-18 오후 3 54 23" src="https://github.com/user-attachments/assets/94b5c6ba-5671-4498-958b-14b6bdc871da" />
+간단한 텍스트 게임
